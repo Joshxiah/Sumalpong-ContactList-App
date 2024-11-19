@@ -4,21 +4,20 @@ const router = express.Router();
 let contacts = [
   {
     id: 1,
-    name: "Jhoana Marie S. Sumalpong",
-    email: "joshxiasumalpong@gmail.com",
-    phone: "0938-394-5849",
+    name: "Maria Santos",
+    email: "maria.santos123@gmail.com",
+    phone: "0917-123-4567",
   },
   {
     id: 2,
-    name: "Virlyn Sandialan",
-    email: "sandialanvirlyn@gmail.com",
-    phone: "0953-200-2272",
+    email: "juan.delacruz789@gmail.com",
+    phone: "0927-234-5678",
   },
   {
     id: 3,
-    name: "Baby Mae Ploma",
-    email: "plomababymae19@gmail.com",
-    phone: "0995-913-7664",
+    name: "Ana Lopez",
+    email: "ana.lopez98@gmail.com",
+    phone: "0917-345-6789",
   },
 ];
 
